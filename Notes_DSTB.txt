@@ -1,0 +1,19 @@
+ Data Scientist's Toolbox This is an introduction to the tools and ideas that you will see throughout the rest 
+ of the Data Science track. 
+ 
+The key word in Data Science is "science". 
+
+Focus: 
+(1) an introduction to the key ideas behind working with data in a scientific way that will produce new and 
+reproducible insight, 
+(2) an introduction to the tools that will allow you to execute on a data analytic strategy, from raw data 
+in a database to a completed report with interactive graphics, and 
+(3) on giving you plenty of hands on practice so you can learn the techniques for yourself. 
+
+Getting you set up with the appropriate tools and accounts you will need for the rest of the track and on giving you 
+a solid grounding in the key conceptual ideas. 
+The material is basic.
+ 
+https://github.com/
+
+Github is a tool for collaborative code sharing and editing. 
